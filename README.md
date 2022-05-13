@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @abdulrhmanalqassas
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning React
 - 📫 How to reach me: 
 abdulrhmanalqassas@gmail.com
-My linkedin :
+- My linkedin :
 https://www.linkedin.com/in/abdulrhman-alqassas-046394200/
 
 <!---
