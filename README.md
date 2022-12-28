@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 <br />
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulrhmanalqassas&show_icons=true)
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanalqassas&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulrhmanalqassas&show_icons=true)'
+
+
+##2. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
