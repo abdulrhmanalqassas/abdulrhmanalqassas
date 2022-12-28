@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulrhmanalqassas&show_icons=true)
