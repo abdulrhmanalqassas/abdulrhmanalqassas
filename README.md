@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ##2. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=abdulrhmanalqassas)
