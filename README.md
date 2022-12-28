@@ -26,6 +26,3 @@ You can click the Preview link to take a look at your changes.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulrhmanalqassas&show_icons=true)'
 
-
-##2. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=abdulrhmanalqassas)
