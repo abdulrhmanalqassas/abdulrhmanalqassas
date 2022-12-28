@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulrhmanalqassas&show_icons=true)
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanalqassas&theme=blue-green)
