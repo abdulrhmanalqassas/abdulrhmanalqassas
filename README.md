@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 ## 1. GitHub Stats
 
-![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdulrhmanalqassas&show_icons=true&count_private=true&line_height=40&hide_border=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdulrhmanalqassas&hide=html&exclude_repo=python_vim&hide_border=true)
+![alqassas's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdulrhmanalqassas&show_icons=true&count_private=true&line_height=40&hide_border=true)
+
 
