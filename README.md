@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @abdulrhmanalqassas
+- i am a frontend engineer ⚛️ (React ✨ TS ) .
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning React
+- 🌱 🟢I’m currently learning  vue 🟢😔 .
 - 📫 How to reach me: 
 abdulrhmanalqassas@gmail.com
 - My linkedin :
 https://www.linkedin.com/in/abdulrhman-alqassas-046394200/
 - My protoflio :
-https://al-qassas.netlify.app/
+https://abdulrhmanalqassas.github.io/potfolio/
 
 
 <!---
