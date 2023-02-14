@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abdulrhmanalqassas
--<img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> i am a frontend engineer ⚛️ (React ✨ TS )<img align="left" target="_blank" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> .
+- Hi, I’m @abdulrhmanalqassas
+- <img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> i am a frontend engineer ⚛️ (React ✨ TS )<img align="left" target="_blank" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> .
 - 👀 I’m interested in web programming
-- <img align="left" target="_blank" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />🌱 🟢I’m currently learning  vue 🟢😔 .
+- <img align="left" target="_blank" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />I’m currently learning  vue 🟢😔 .
 - 📫 How to reach me: 
 abdulrhmanalqassas@gmail.com
 - My linkedin :
