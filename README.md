@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulrhmanalqassas
-- i am a frontend engineer ⚛️ (React ✨ TS ) .
+-<img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> i am a frontend engineer ⚛️ (React ✨ TS )<img align="left" target="_blank" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> .
 - 👀 I’m interested in web programming
-- 🌱 🟢I’m currently learning  vue 🟢😔 .
+- <img align="left" target="_blank" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />🌱 🟢I’m currently learning  vue 🟢😔 .
 - 📫 How to reach me: 
 abdulrhmanalqassas@gmail.com
 - My linkedin :
@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" target="_blank" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" target="_blank" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 
