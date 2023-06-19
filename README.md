@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10&background=FFFFFF00&center=true&multiline=true&width=444&height=63&lines=Hi,+I’m+AlQassas;Front+End+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&duration=2000&pause=10&background=FFFFFF00&center=true&multiline=true&width=487&height=79&lines=Hi%2C+I%E2%80%99m+AlQassas;Front+End+engineer)](https://git.io/typing-svg)
 - i am a frontend engineer ⚛️ (React ✨ TS ) <img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="left" target="_blank" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> - 👀 I’m interested in web programming
 
 - I’m currently learning  vue 🟢😔 .  <img align="left" target="_blank" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
